@@ -15,7 +15,7 @@ Class projects completed during undergrad studies before 2014. For current resea
 ---
 
 ## Joggie Running App
-<img src="assets/oldproto1.jpg" height="150"> <img src="assets/oldproto2.jpg" height="150"> <img src="assets/oldproto3.jpg" height="150"> <img src="assets/joggiesitemap.jpg" height="150"> <img src="assets/finalproto.jpg" height="150">
+<img src="assets/oldproto1.jpg" height="150"> <img src="assets/oldproto4.jpg" height="150"> <img src="assets/oldproto3.jpg" height="150"> <img src="assets/SiteMap_Joggie_Prototype.png" height="150"> <img src="assets/FINALprototype.jpg" height="150">
 
 ---
 
