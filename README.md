@@ -14,7 +14,7 @@ This project includes a raycaster and a raytracer. The raycaster was developed u
 ## Physically Based Rendering (PBR)
 This project focuses on advanced rendering techniques, including path tracing, caustics, depth of field, and subsurface scattering. It also includes an implementation of the Sobel and Canny edge detection algorithms for post-processing.
 
-<img src="assets/diffuse.png" height="150"> <img src="assets/caustics.png" height="150"> <img src="assets/depth_of_field.png" height="150"> <img src="assets/whitted.png" height="150"> <img src="assets/teapot-subsurface_original.png" height="150"> <img src="assets/teapot-subsurface.png" height="150"> <img src="assets/sobel_screensho2t.jpg" height="150"> <img src="assets/sobel_screenshot.jpg" height="150"> <img src="assets/canny_screenshot2.jpg" height="150">
+<img src="assets/diffuse.png" height="150"> <img src="assets/caustic.png" height="150"> <img src="assets/depth_of_field.png" height="150"> <img src="assets/whitted.png" height="150"> <img src="assets/teapot-subsurface_original.png" height="150"> <img src="assets/teapot-subsurface.png" height="150"> <img src="assets/sobel_screensho2t.jpg" height="150"> <img src="assets/sobel_screenshot.jpg" height="150"> <img src="assets/canny_screenshot2.jpg" height="150">
 
 ---
 
