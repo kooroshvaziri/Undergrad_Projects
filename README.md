@@ -15,4 +15,12 @@ Class projects completed during undergrad studies before 2014. For current resea
 ---
 
 ## Joggie Running App
-<img src="assets/oldproto1.jpg" height="150"> <img src="assets/oldproto2.jpg" height="150"> <img src="assets/oldproto3.jpg" height="150"> <img src="assets/joggiesitemap.jpg" height="15
+<img src="assets/oldproto1.jpg" height="150"> <img src="assets/oldproto2.jpg" height="150"> <img src="assets/oldproto3.jpg" height="150"> <img src="assets/joggiesitemap.jpg" height="150"> <img src="assets/finalproto.jpg" height="150">
+
+---
+
+## iAyeCaptain Game
+<img src="assets/iayecaptain_01.png" height="150"> <img src="assets/iayecaptain_02.png" height="150"> <img src="assets/iayecaptain_03.png" height="150"> <img src="assets/iayecaptain_04.png" height="150"> <img src="assets/iayecaptain_05.png" height="150"> <img src="assets/iayecaptain_07.png" height="150"> <img src="assets/iayecaptain_08.png" height="150"> <img src="assets/iayecaptain_10.png" height="150"> <img src="assets/iayecaptain_11.png" height="150"> <img src="assets/iayecaptain_13.png" height="150"> <img src="assets/iayecaptain_14.png" height="150"> <img src="assets/iayecaptain_15.png" height="150"> <img src="assets/iayecaptain_16.png" height="150"> <img src="assets/iayecaptain_17.png" height="150"> <img src="assets/iayecaptain_18.png" height="150">
+
+---
+*All rights reserved © Koorosh Vaziri*
