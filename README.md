@@ -7,7 +7,7 @@ Class projects completed during undergrad studies before 2014. For current resea
 ## Raycasting and Raytracing
 This project includes a raycaster and a raytracer. The raycaster was developed using C++ and OpenGL. It supports various lighting models (Phong, Blinn-Phong), shadows, and reflections. The raytracer extends the raycaster with support for refractive materials and more complex scenes.
 
-<img src="assets/raycasting_shadows.png" height="150"> <img src="assets/raycasting_pool_phong.png" height="150"> <img src="assets/raycasting_monalisa.png" height="150"> <img src="assets/raycasting_spiral.png" height="150"> <img src="assets/raycasting_dna.png" height="150"> <img src="assets/raytracing_mirror_reflections.png" height="150"> <img src="assets/raytracing_abc.png" height="150"> <img src="assets/raytracing_candyhouse.png" height="150"> <img src="assets/raytracing_halloween.png" height="150"> <img src="assets/raytracing_teapot.png" height="150"> <img src="assets/raytracing_transparency.png" height="150">
+<img src="assets/raycasting_shadows.png" height="150"> <img src="assets/raycasting_pool_phong.png" height="150"> <img src="assets/raycasting_monalisa.jpg" height="150"> <img src="assets/raycasting_spiral.png" height="150"> <img src="assets/raycasting_dna.png" height="150"> <img src="assets/raytracing_mirror_reflections.png" height="150"> <img src="assets/raytracing_abc.png" height="150"> <img src="assets/raytracing_candyhouse.png" height="150"> <img src="assets/raytracing_halloween.png" height="150"> <img src="assets/raytracing_teapot.png" height="150"> <img src="assets/raytracing_transparency.png" height="150">
 
 ---
 
